@@ -14,7 +14,7 @@ The objective of this project was to review the production data of MechCar proto
 ## Software
 *	R Statistics
 * Pandas Jupyter notebook									
-*PostgreSQL
+* PostgreSQL
 
 ## Results 
 
