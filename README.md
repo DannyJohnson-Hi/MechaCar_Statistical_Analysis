@@ -1,4 +1,4 @@
-# MechCar_Statistical_Analysis
+# MechaCar_Statistical_Analysis
 
 ## Overview of Project
 The objective of this project was to review the production data of MechCar prototypes. This review will provide insight that could be helpul for the manufacturing team. 
