@@ -4,7 +4,7 @@
 The objective of this project was to review the production data of MechCar prototypes. This review will provide insight that could be helpul for the manufacturing team. 
 
 
-##The deliverables for this project are:
+## The deliverables for this project are:
 
 *	Discover which variables predict the miles per gallon (MPG) for vehicle prototypes
 * Collect summary statistics on the pounds per square inch (PSI) of suspension Coils.									
@@ -50,17 +50,17 @@ Alternative hypothesis: There is significant PSI mean difference between all man
 
 ![image4](https://github.com/DannyJohnson-Hi/MechaCar_Statistical_Analysis/blob/main/Images/image4.PNG)
 
-###Individual lot tests:
+### Individual lot tests:
 
-##Lot 1
+## Lot 1
 ![image5](https://github.com/DannyJohnson-Hi/MechaCar_Statistical_Analysis/blob/main/Images/image5.PNG)
 
 
-##Lot 2
+## Lot 2
 ![image6](https://github.com/DannyJohnson-Hi/MechaCar_Statistical_Analysis/blob/main/Images/image6.PNG)
 
 
-##Lot 3
+## Lot 3
 ![image7](https://github.com/DannyJohnson-Hi/MechaCar_Statistical_Analysis/blob/main/Images/image7.PNG)
 
 
